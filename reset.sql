@@ -1,0 +1,15 @@
+DROP INDEX "course_title_idx";
+DROP INDEX "course_idx";
+DROP INDEX "employee_name_idx";
+DROP VIEW "induction_status";
+DROP VIEW "induction_tb";
+DROP VIEW "induction";
+DROP VIEW "courses_status";
+DROP VIEW "induction_records";
+DROP VIEW "all_records";
+DROP TABLE "ratings";
+DROP TABLE "classes";
+DROP TABLE "sessions";
+DROP TABLE "instructors";
+DROP TABLE "courses";
+DROP TABLE "employees";

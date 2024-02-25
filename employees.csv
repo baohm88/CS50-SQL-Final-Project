@@ -1,0 +1,207 @@
+employee_id,employee_name,designation,nationality,department,joining_date,status
+1,Muhammad Azam,Accountant,Pakistan,Admin,2021-10-16,active
+2,Sengpyo Choi,Site Manager,S. Korea,PCM,2021-12-29,active
+3,Taewon Song,Civil Manager,S. Korea,Civil,2021-12-29,active
+4,Seong Ryong Seon,Quality Manager,S. Korea,QA/QC,2021-12-29,active
+5,Keeryoung Nam,Admin Manager,S. Korea,Admin,2021-12-29,active
+6,Cheolyoung Oh,PJT Control Manager,S. Korea,PCM,2022-01-13,active
+7,Dong Hyun Park,Deputy Admin Manager,S. Korea,Admin,2022-01-16,active
+8,Ajeesh Kambaran Asokan,HSE Officer,India,HSE,2022-02-21,active
+9,Tanmoy Subhash Jana,Civil Engineer,India,Civil,2022-03-01,active
+10,Ala Mohammed Dashan,PRO,Syria,Admin,2022-03-01,active
+11,Kyong Youn Park,Head of Architectural,S. Korea,Arch,2022-03-01,active
+12,Glyn Jenkins,HSE Manager,Uk,HSE,2022-03-05,active
+13,Liyakat Ali,IT Engineer,India,Admin,2022-03-05,active
+14,Jounghun Suhk,Deputy HSE Manager,S. Korea,HSE,2022-03-16,active
+15,Adonis Gregorio Ordinario,QA/QC Officer,Philippines,QA/QC,2022-03-19,active
+16,Mohammad Nurul Imam,Civil Engineer,India,Civil,2022-03-21,active
+17,Sunghoon Lee,PJT Control,S. Korea,PCM,2022-03-22,active
+18,Jongman Eun,PJT Control,S. Korea,PCM,2022-03-22,active
+19,Md Nazim Iqbal,Assistant PRO,India,Admin,2022-03-24,active
+20,Louie D. Corbeta,Planning Engineer,Philippines,PCM,2022-03-28,active
+21,Alberto De Lara,Electrical Engineer,Philippines,Elec,2022-03-28,active
+22,Joseph M. De Castro,Quantity Surveyor,Philippines,PCM,2022-03-30,active
+23,Thanseem Kalinadan,Instrumentation Engineer,India,PCM,2022-03-30,active
+24,Nekhil Nair,HSE Officer,India,HSE,2022-03-31,active
+25,Rijo John,Document Controller,India,PCM,2022-04-01,active
+26,Aboobekker Ayyathayil,HSE Officer,India,HSE,2022-04-01,active
+27,Jehanzeb Asad,HR Officer,Pakistan,Admin,2022-04-07,active
+28,Harpreet Singh Minhas,HSE Officer,India,HSE,2022-04-13,active
+29,Erwin Conti De Torres,Admin Officer,Philippines,Admin,2022-05-05,active
+30,Sang Uk Jeong,Logistics Manager,S. Korea,Logistics,2022-05-05,active
+31,Mohamed Hassan Mohamed Abdalmajeed,Sr. Civil Engineer,Egypt,Civil,2022-05-08,active
+32,Ramon Coteli Quinto,Architectural Engineer,Philippines,Arch,2022-05-08,active
+33,Denis Mendez Anos,Document Controller,Philippines,PCM,2022-05-09,active
+34,Iqbal Basha Shaik,HVAC Engineer,India,Mech,2022-05-11,active
+35,Deuk Jin Do,Head of Civil,S. Korea,Civil,2022-05-16,active
+36,Muhammad Nazam,Civil Assistant Engineer,Pakistan,Civil,2022-05-19,active
+37,Arnold Bulacan Cabildo,QA/QC Engineer,Philippines,QA/QC,2022-05-24,active
+38,Faizal Mohamed Jagabar Ali,Jr. Architectural Engineer,India,Arch,2022-06-01,active
+39,Rab Nawaz,HR Assistant,Pakistan,Admin,2022-06-10,active
+40,Indrajit Lama,Admin Officer,Nepal,Admin,2022-06-14,active
+41,Ha Manh Bao,HSE Officer,Vietnam,HSE,2022-06-14,active
+42,Juntae Kim,Architecural Engineer,S. Korea,Arch,2022-06-14,active
+43,Sunghwon Oh,Architectural Manager,S. Korea,Arch,2022-06-16,active
+44,Youngmin Hwang,Civil Manager,S. Korea,Civil,2022-06-16,active
+45,Ramil Revera Ingal,Architecture Engineer,Philippines,Arch,2022-06-19,active
+46,Sriharsha Neelam,Electrical QAQC Engineer,India,QA/QC,2022-06-20,active
+47,Valentino Serrano,Logistics Officer,Philippines,Logistics,2022-06-20,active
+48,Meer Kamurudin Jainulabudin,Admin Officer,India,Admin,2022-06-27,active
+49,Nirmal Kanatt Joshy,QS Engineer,India,PCM,2022-06-30,active
+50,Abner Quinsay Arcadio,Arch. Engineer,Philippines,Arch,2022-07-01,active
+51,Imtiaz Yousaf Muhammad Yousaf,Electrical Supervisor,Pakistan,Elec,2022-07-03,active
+52,Bimal Jaya,Logistics Officer,India,Logistics,2022-07-03,active
+53,Imtiaz Yousaf Muhamamd Yousaf,Electrical Supervisor,Pakistan,Elec,2022-07-03,active
+54,Syed Zulqarnain Haider,Procurement Officer,Pakistan,Admin,2022-07-04,active
+55,Seyoun Won,Head of Electrical,S. Korea,Elec,2022-07-11,active
+56,Nookaraju Rapeti,HSE Officer,India,HSE,2022-07-12,active
+57,Hashim Sha,Planning Engineer,India,PCM,2022-07-13,active
+58,Mohamed Mohamed Rabie Ali Abd Elhalim,Logistics Officer,Egypt,Logistics,2022-07-15,active
+59,Mohammad Azharuddin,Jr. Firefighting Engineer,India,Mech,2022-07-20,active
+60,Sankarsha Prakash,QA/QC Inspector,India,QA/QC,2022-07-20,active
+61,Ramanuj Sarkar,Logistics Officer,India,Logistics,2022-07-26,active
+62,Dinesh Kumar Balaraman,Environmental Engineer,India,HSE,2022-07-31,active
+63,Saiful Haque Laskar,Sr. Architectural Engineer,India,Arch,2022-08-02,active
+64,Clint Dela Corte Rodriguez,QAQCEngineer - E&I,Philippines,QA/QC,2022-08-04,active
+65,Ali Ahmad Muhammad Ibrahim,Driver,Pakistan,Admin,2022-08-04,active
+66,Mohammad Qaiser Khan,Sr.QAQC Engineer,India,QA/QC,2022-08-08,active
+67,Jayson Vagay Tabora,Sr. Architectural Engineer,Philippines,Arch,2022-08-09,active
+68,Guillermo Arawiran Acibiz,HVAC Engineer,Philippines,Mech,2022-08-09,active
+69,Ravi Selvan,Electrical Supervisor,India,Elec,2022-08-10,active
+70,Bryan J. Cervantes,Civil QAQC Engineer,Philippines,QA/QC,2022-08-15,active
+71,Neha Rajan,Accounts Assistant,India,Admin,2022-08-15,active
+72,Byungjin Choi,Civil Manager,S. Korea,Civil,2022-08-16,active
+73,Anish Nair,Sr. Contracts Engineer,India,PCM,2022-08-28,active
+74,Kiran Kumar Thapa,House Boy,Nepal,Admin,2022-08-28,active
+75,Noushad Mullatharayil,Driver,India,Admin,2022-08-29,active
+76,Marwan Yousry Abdelhafez,Civil Engineer,Egypt,Civil,2022-08-31,active
+77,Edward John Abarca Candaroma,HSE Engineer,Philippines,HSE,2022-09-01,active
+78,Hoon Il Jung,Coordinator,S. Korea,Civil,2022-09-01,active
+79,Benrex Cardones Tison,Electrical Engineer,Philippines,Elec,2022-09-11,active
+80,Zyron O. Eusebio,IT Admin,Philippines,Admin,2022-09-13,active
+81,Mohammad Tarique Khan,Mechanical QAQC Engineer,India,QA/QC,2022-09-15,active
+82,Afsal Kalithodi,Document Controller,India,Admin,2022-09-16,active
+83,Muthukumar Sivakumar,Civil Engineer,India,Civil,2022-09-22,active
+84,Robin Das Amala Das,HSE Officer,India,HSE,2022-09-25,active
+85,Omer Farooq Muhammad Faiz,Jr. Document Controller,Pakistan,PCM,2022-09-26,active
+86,Sudheej Kumar Nhalli Kkandy,GIS & HVAC Cables Manager,India,PCM,2022-10-02,active
+87,Renosh Thomas,Admin Officer,India,Admin,2022-10-07,active
+88,Rickson Dave Rodel,CAD Operator,Philippines,Arch,2022-10-09,active
+89,Khem Lal Shrestha,Logistics Officer,Nepal,Logistics,2022-10-10,active
+90,Pradeep Gangadharan,Sr.QAQC Engineer,India,QA/QC,2022-10-17,active
+91,Haroon Anwar Junaid Anwar,Admin Assistant,Pakistan,Admin,2022-10-20,active
+92,Mohammad Ashraf Baithadka,Driver,India,Admin,2022-10-20,active
+93,Sanjay Mukherjee,Arch Engineer,India,Arch,2022-11-03,active
+94,Lionel Santhosh Samuel,Arch Engineer,India,Arch,2022-11-07,active
+95,Elmer Galao Antivo,QAQC Civil Engineer,Philippines,QA/QC,2022-11-22,active
+96,Romeo Gacayan Pascua,Architectural Engineer,Philippines,Arch,2022-11-22,active
+97,Brian Quinsay Arcadio,Architectural Engineer,Philippines,Arch,2022-11-22,active
+98,Jeward Vidad Pascua,QAQC Electrical Engineer,Philippines,QA/QC,2022-11-22,active
+99,Eddel Ramirez Jose,Logistics Officer,Philippines,Logistics,2022-11-22,active
+100,Jonas Handumon Hoyohoy,Document Controller,Philippines,HSE,2022-11-22,active
+101,Adrian Cecilio Lampitoc,Civil Engineer,Philippines,Civil,2022-11-25,active
+102,Abdul Majid Varikkottil,IT Officer,India,Admin,2022-11-29,active
+103,Jayadevan Kolliappulathu Peethambaran,HSE Engineer,India,HSE,2022-11-29,active
+104,Haitham Mohammad Madaneya,Logistic Officer,Syria,Logistics,2022-12-05,active
+105,Savad Ali Palakkaparambil,Cost Control Engineer,India,PCM,2022-12-09,active
+106,Kashif Ramzan,HSE Lead Engineer,Pakistan,HSE,2022-12-11,active
+107,Vinay Anand,Electrical Engineer,India,Elec,2022-12-11,active
+108,Abdulla Yousif Ahmed Alhammadi,Admin Clerk,Uae,Admin,2022-12-20,active
+109,Navid Riyaz Kazi Riyaz,Driver,India,Admin,2022-03-15,active
+110,Abdu Raoof Mannarkandy,HSE Officer,India,HSE,2022-12-26,active
+111,JunKwon Hwang,Architecture Engineer,S. Korea,Arch,2023-01-03,active
+112,Veerakarthigainathan Dhanasekaran,Electrical Engineer,India,Elec,2023-01-22,active
+113,Nichole Babes C. Cometa,Logistic Officer,Philippines,Logistics,2023-01-22,active
+114,Roldan Babao Mendoza,Logistic Officer,Philippines,Logistics,2023-01-22,active
+115,Waseem Ashiq Masih Ashiq,Driver,Pakistan,Admin,2023-01-23,active
+116,Shipin Parambil,IT Engineer,India,Admin,2023-02-03,active
+117,Anshid Mankada Kuzhiyil,Driver,India,Admin,2023-02-08,active
+118,Jovanni Bahenting Rebuyas,Civil Engineer,Philippines,Civil,2023-02-12,active
+119,Noel Villanueva Laguinday,Document Controller [QA/QC],Philippines,QA/QC,2023-02-13,active
+120,Nizam Husen,IT Admin,India,Admin,2023-02-20,active
+121,Mahesh Madathil,HSE Engineer,India,HSE,2023-02-22,active
+122,Abdul Shukoor Kalyanathopp Parambil,HSE Officer,India,HSE,2023-02-23,active
+123,Sravankumar Sreekumar,HSE Engineer,India,HSE,2023-02-26,active
+124,Jhason Alim De Guzman,FMC,Philippines,Logistics,2023-02-27,active
+125,Muhammad Noman Siddiqui,Civil Engineer,Pakistan,Civil,2023-03-12,active
+126,Jason Dalaguete Abella,Logistics Officer,Philippines,Logistics,2023-03-15,active
+127,Danish Nasir,Driver,Pakistan,Admin,2022-06-13,active
+128,Liju Monachan,HSE Officer,India,HSE,2023-03-23,active
+129,Avinash Majji,QA/QC Mechanical Engineer,India,QA/QC,2023-03-24,active
+130,Akshey Kumar Rana,HSE Officer,India,HSE,2023-03-31,active
+131,Habis Sunil,HSE Engineer,India,HSE,2023-04-02,active
+132,Faiz Muhammad,Heavy Vehicle Driver,Pakistan,Admin,2023-04-06,active
+133,Gunaventhan Ragupathi,HSE Officer,India,HSE,2023-04-24,active
+134,Abdul Ajeem,HSE Officer,India,HSE,2023-04-28,active
+135,Rio Tiamsim Davalos,Arch Engineer,Philippines,Arch,2023-05-01,active
+136,Ramil Bongbong Prado Baylon,HVAC - Mech Engiener,Philippines,Mech,2023-05-01,active
+137,Iftikhar Hussain Muhammad Siddiqui Khan,Land Surveyor,Pakistan,Civil,2023-05-01,active
+138,Akhil Mangode Anil,HSE Officer,India,HSE,2023-05-02,active
+139,Ronaldo Custodio Baldemor,Sr. Electrical Engineer,Philippines,Elec,2023-05-02,active
+140,Ryan Lowell De Guzman Baesa,Mech QA/QC Engineer,Philippines,QA/QC,2023-05-02,active
+141,Jeong Geun Lee,Arch. Engineer,S. Korea,Arch,2023-05-02,active
+142,Jin Hui Kim,Arch Manager,S. Korea,Arch,2023-05-03,active
+143,Sanghyun Song,HVAC Manager,S. Korea,Mech,2023-05-03,active
+144,Uijong Choi,Elec Engineer,S. Korea,Elec,2023-05-03,active
+145,Chaelim Park,Project Control,S. Korea,PCM,2023-05-03,active
+146,Shoaib Aslam,Surveyor,Pakistan,Civil,2023-05-09,active
+147,Qasim Zia Sakhi Sarwar Sultan,Surveyor,Pakistan,Civil,2023-04-11,active
+148,Renante Moreno Moral,Electrical Engineer,Philippines,Elec,2023-05-15,active
+149,Shahin Muhammed Rafeeq,Jr. Electrical Engineer,India,Elec,2023-05-15,active
+150,Elmer Ian Saragpon,Electrical QAQC Engineer,Philippines,QA/QC,2023-05-16,active
+151,Santhosh Thindiyath Velayudhan,Driver,India,Admin,2023-05-16,active
+152,Surendra Kumar Tamang,Korean Cook,Nepal,Admin,2023-05-29,active
+153,Roderick Tablac Figueroa,Architectural Engineer,Philippines,Arch,2023-06-18,active
+154,Muhammad Omer Bashir,Driver,Pakistan,Admin,2023-06-20,active
+155,Perviz Mohammad Bakhsh,Assisatant Surveyor,Pakistan,Civil,2023-07-02,active
+156,Luqman Kabiruddin Kazi,Accountant,India,Admin,2023-07-03,active
+157,Jawahar Natarajan,Admin Assistant,India,Admin,2023-07-03,active
+158,Mohammad Niyaz Uddin,Firefighting Engineer,India,Mech,2023-07-03,active
+159,Renjith Bharath Raju,QA/QC Engineer,India,QA/QC,2023-06-08,active
+160,Rajesh Kesavan Kartha,Heavy Driver,India,Admin,2023-07-07,active
+161,Sadique Mohammad,Land Surveyor,India,Civil,2023-07-09,active
+162,Ronish Subba,Korean Cook,Nepal,Admin,2023-07-09,active
+163,Tarwinder Singh,Driver,India,Admin,2023-07-08,active
+164,Sail Hong,Engieering Manager,S. Korea,PCM,2023-07-10,active
+165,Changryun Baek,Manager,S. Korea,PCM,2023-07-10,active
+166,Myong Sup Shim,Manager,S. Korea,PCM,2023-07-10,active
+167,Kanakarajan Thirughanam,Electrical Supervisor,India,Elec,2023-07-11,active
+168,Vijayakumar Dhatchinamoorthy,Electrical Supervisor,India,Elec,2023-07-13,active
+169,Aneel Kumar,Arch Engineer,Pakistan,Arch,2023-07-17,active
+170,Subair Puthen Peedika,Driver,India,Admin,2023-07-18,active
+171,Yogendra Gidal Magar,Housekeeper,India,Admin,2023-07-20,active
+172,Seogkyun Byun,E&I Team Leader,S. Korea,Elec,2023-07-25,active
+173,Jasper Park,Electrical Construction Manager,S. Korea,Elec,2023-07-25,active
+174,Jerald Capulong Paulino,E&I QAQC Engineer,Philippines,QA/QC,2023-08-07,active
+175,Vaibhav Rathore,Contracts Engineer,India,PCM,2023-08-10,active
+176,Vijaysarathi Murugesan,Camp Boss (Offshore),India,Admin,2023-08-10,active
+177,Carlos Jr. Gascon Toledo,HVAC Engineer,Philippines,Elec,2023-08-17,active
+178,Muhammad Bilal,Camp Boss Offshore,Pakistan,Admin,2023-09-03,active
+179,Muhammad Asrar,HSE Engineer,Pakistan,HSE,2023-09-10,active
+180,Romeo Valencia Sison,Architect QAQC Engineer,Philippines,QA/QC,2023-09-11,active
+181,Sharad Kumar Chaudhary,Driver,Nepal,Admin,2023-09-26,active
+182,Muhammad Suleman,HSE Officer,Pakistan,HSE,2023-09-26,active
+183,Lijo Monachan,HSE Officer,India,HSE,2023-10-01,active
+184,Shaiju Mukaluvila Daniel,Civil QAQC Inspector,India,QA/QC,2023-10-02,active
+185,Anvar Hussain Haneefa,HVAC Engineer,India,Mech,2023-10-10,active
+186,Ahmed Saadat,Watertanker Driver,Pakistan,Admin,2023-10-11,active
+187,Jaspreet Singh Piara Singh,Driver,India,Admin,2023-10-12,active
+188,Jeffrey Espiritu Bueno,Project Control Engineer,Philippines,PCM,2023-10-15,active
+189,Rashik Naranath Hassan,HSE Officer,India,HSE,2023-10-16,active
+190,Jose Michael Roldan Alviar,QA Officer,Philippines,QA/QC,2023-10-23,active
+191,Ayyanathan Dharmaraj,Firefighting Engineer,India,Mech,2023-10-24,active
+192,Prakash KC,Camp Assistant,Nepal,Admin,2023-10-25,active
+193,Mohsin Mainuddin Malgundkar,IT Technician,India,Admin,2023-10-26,active
+194,Naseeb Khan Anzari,Site Supervisor (Offshore),India,Civil,2023-10-27,active
+195,Yazan Tawfiq Abdel Majid Alameer,Admin Officer (Site),Jordan,Admin,2023-10-29,active
+196,Muhammad Khateeb,Heavy Driver,Pakistan,Admin,2023-11-01,active
+197,Sijit Karji,Korean Cook,India,Admin,2023-11-03,active
+198,Dambar Bahadur Khatri,Korean Cook,Nepal,Admin,2023-11-06,active
+199,Sohail Aslam Muhammad Aslam,Permit Coordinator,Pakistan,Civil,2023-11-13,active
+200,Shatrubhan Tiwari,SCADA Telecom Engineer,India,Admin,2023-11-15,active
+201,Ajayakumar Ramaswamy Sankaravilasam,HSE Engineer,India,HSE,2023-11-16,active
+202,Sai Kiran Kura,Camp Assistant (Offshore),India,Admin,2023-11-17,active
+203,Prajeesh Meethale Preth,Civil Engineer,India,Civil,2023-11-23,active
+204,Karthikraj Gurusamy,Electrical Engineer,India,Elec,2023-11-26,active
+205,Ken Espiritu Lopez,FMC,Philippines,Logistics,2023-11-26,active
+206,Dipak Rai,Assistant Cook,Nepal,Admin,2023-12-01,active
